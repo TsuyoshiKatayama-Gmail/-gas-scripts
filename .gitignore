@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+
+# clasp（ローカル認証情報。リポジトリには含めない）
+.clasprc.json
+
+# 依存関係（npm を利用する場合）
+node_modules/
+
+# ログ・一時ファイル
+*.log
